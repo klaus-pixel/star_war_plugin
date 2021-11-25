@@ -1,1 +1,2 @@
-# star_war_plugin
+Star War is an Wordpress Plugin
+
